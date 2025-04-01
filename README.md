@@ -8,7 +8,7 @@ This repository implements a **3D seismic fault segmentation pipeline** using a 
 
 - Train a CNN (U-Net) model for 3D seismic fault segmentation.
 - Predict seismic faults from 3D seismic data files.
-- Visualize predicted fault volumes and seismic slices.
+- Visualize predicted fault volumes and seismic slices. 
 
 ---
 
