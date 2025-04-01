@@ -1,6 +1,6 @@
 import numpy as np
 from utils.visualization import save_images
-from data_loader import SeismicDataLoader
+from utils.data_loader import SeismicDataLoader # test
 from model.factory import ModelFactory
 
 class Predictor:

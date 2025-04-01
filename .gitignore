@@ -176,8 +176,7 @@ cython_debug/
 # virtualenv venv
 venv/
 
-# datasets and log
-data/train/
-data/validation/
-data/prediction/
+# train datasets and log
+data/train/*/*.dat
+data/train/*.zip
 logs/
