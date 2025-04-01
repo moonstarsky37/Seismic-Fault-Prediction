@@ -15,8 +15,8 @@ This repository implements a **3D seismic fault segmentation pipeline** using a 
 | raw_image: seismic                             | prediction: prediction                                 | combination: overlay                            |
 | ---------------------------------------------- | ------------------------------------------------------ | ----------------------------------------------- |
 | ![Seismic](predict_output/slice_50_seismic.png)| ![Prediction](predict_output/slice_50_prediction.png)  | ![Overlay](predict_output/slice_50_overlay.png) |
-| ![Seismic](predict_output/slice_64_seismic.png)| ![Prediction](predict_output/slice_64_prediction.png)  | ![Overlay](predict_output/slice_64_overlay.png) |
-| ![Seismic](predict_output/slice_90_seismic.png)| ![Prediction](predict_output/slice_90_prediction.png)  | ![Overlay](predict_output/slice_90_overlay.png) |
+| ![Seismic](predict_output/slice_65_seismic.png)| ![Prediction](predict_output/slice_65_prediction.png)  | ![Overlay](predict_output/slice_65_overlay.png) |
+| ![Seismic](predict_output/slice_91_seismic.png)| ![Prediction](predict_output/slice_91_prediction.png)  | ![Overlay](predict_output/slice_91_overlay.png) |
 
 ---
 
